@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "hr.spss.com",
+    "description": "",
+    "home_page_url": "https://shameerpuri.github.io/hr-spss",
+    "feed_url": "https://shameerpuri.github.io/hr-spss/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "shameer"
+    },
+    "items": [
+    ]
+}
